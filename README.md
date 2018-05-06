@@ -9,7 +9,7 @@ import it over an older version of the deck without any issues.
 Each flashcard's front is the name of the card, and the back is the card image
 downloaded from NetrunnerDB.
 
-I recommend suspending all cards but the core set (search for `pack:core2`),
+I recommend suspending all cards but the core set (suspend all, then search for `pack:core2` and unsuspend),
 and then unsuspending one or two packs at a time.
 
 ![Image of card: Dyson Mem Chip](https://www.cardgamedb.com/forums/uploads/an/med_ADN49_57.png)
