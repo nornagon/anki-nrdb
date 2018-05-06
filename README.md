@@ -12,5 +12,7 @@ downloaded from NetrunnerDB.
 I recommend suspending all cards but the core set (search for `pack:core2`),
 and then unsuspending one or two packs at a time.
 
+![Image of card: Dyson Mem Chip](https://www.cardgamedb.com/forums/uploads/an/med_ADN49_57.png)
+
 [1]: https://ankiweb.net/
 [2]: https://netrunnerdb.com/
